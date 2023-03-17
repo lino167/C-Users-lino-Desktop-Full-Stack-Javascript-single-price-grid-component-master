@@ -1,1 +1,0 @@
-# C-Users-lino-Desktop-Full-Stack-Javascript-single-price-grid-component-master
